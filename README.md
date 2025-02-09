@@ -8,7 +8,7 @@ To run this application on your machine:
 
 1. **Clone the repository**  
    ```sh
-   git clone <your-repo-url>
+   git clone [<your-repo-url>](https://github.com/Akarami000/Universal)
 
 2. **Install dependencies and run project in your system **  
    ```sh
